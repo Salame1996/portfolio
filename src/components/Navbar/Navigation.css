@@ -1,0 +1,13 @@
+/* Navigation.css */
+.navbar a.nav-link {
+    color: white;
+    text-decoration: none;
+    position: relative;
+    transition: transform 0.2s; /* Add a smooth transition for the transform property */
+  }
+  
+  .navbar a.nav-link:hover {
+    text-decoration: underline;
+    transform: translateY(-2px); /* Apply a small upward translation on hover */
+  }
+  
