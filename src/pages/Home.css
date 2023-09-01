@@ -1,0 +1,10 @@
+img {
+    width: 100%; /* Set the width to 100% of its containing element (which is the webpage) */
+    height: 800px; /* Allow the height to adjust to maintain aspect ratio */
+  }
+  body {
+    background: black !important; /* Use !important to ensure it overrides other styles */
+  }
+  
+  /* Apply styles to the .body class */
+ 

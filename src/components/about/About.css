@@ -1,0 +1,20 @@
+.carnet {
+    width: 250px; /* Set the width to 100% of its containing element (which is the webpage) */
+    height: 250px; /* Allow the height to adjust to maintain aspect ratio */
+    position: absolute;
+    left: 500px;
+  }
+  h1{
+    position: absolute;
+    left: 780px;
+    top: 900px;
+    color: greenyellow !important
+
+  }
+  h3{
+    position: absolute;
+    left: 780px;
+    top: 950px;
+    color: greenyellow !important
+
+  }
